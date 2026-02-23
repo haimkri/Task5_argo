@@ -1,7 +1,5 @@
 # Task5_argo
-new_Task5
-
-#Task 5
+# Task 5
 apiVersion: apps/v1
 kind: Deployment
 metadata:
